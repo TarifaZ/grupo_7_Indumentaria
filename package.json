@@ -4,7 +4,8 @@
   "description": "En nuestra tienda de moda, encontrarás un universo de estilo y elegancia. Nuestro objetivo es brindarte prendas exclusivas y de alta calidad que reflejen tu personalidad única. Desde ropa casual hasta looks sofisticados, tenemos todo lo que necesitas para destacar en cualquier ocasión. ¡Descubre la moda que te hace brillar!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx nodemon server.js",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
