@@ -1,0 +1,18 @@
+{
+  "name": "grupo_7_indumentaria",
+  "version": "1.0.0",
+  "description": "En nuestra tienda de moda, encontrarás un universo de estilo y elegancia. Nuestro objetivo es brindarte prendas exclusivas y de alta calidad que reflejen tu personalidad única. Desde ropa casual hasta looks sofisticados, tenemos todo lo que necesitas para destacar en cualquier ocasión. ¡Descubre la moda que te hace brillar!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
