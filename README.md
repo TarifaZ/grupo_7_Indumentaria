@@ -20,7 +20,9 @@ indumentaria unisex.
 - askdenim -> paleta de colores atractiva a las vista y el menu hamburguesa separa las categorias de tal forma que se ve organizado y facil de comprar, para publico femenino.
 - victoriassecret -> sencilla tanto en la compra como en la busqueda de productos, para publico femenino.
 
+## TABLERO (sprint 2)
 
+- https://trello.com/b/LY7Z3REm/grupo7
 
 
 
