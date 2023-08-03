@@ -284,3 +284,33 @@ footer p, footer h5 {
     font-size: 1.1em; 
     }
    }
+   .product-details {
+    display: none; /* Oculta los detalles por defecto */
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+.product-details:target {
+    display: block; /* Muestra los detalles al hacer clic en el enlace */
+}
+.products {
+  display: flex; /* Establece el contenedor como flexible */
+  flex-wrap: wrap; /* Permite que los elementos se envuelvan en varias líneas si es necesario */
+  gap: 20px; /* Espacio entre los elementos */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.product {
+ width: 40%;
+ background-color: #f0f0f0;
+  padding: 10px;
+}
+.product-details-colors
+{display: flex; /* Establece el contenedor como flexible */
+  flex-wrap: wrap; /* Permite que los elementos se envuelvan en varias líneas si es necesario */
+  gap: 20px; /* Espacio entre los elementos */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

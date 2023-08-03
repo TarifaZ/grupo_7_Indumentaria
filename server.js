@@ -15,6 +15,9 @@ app.get('/registro', (req, res) => {
 app.get('/login', (req, res) => {
     res.sendFile(path.join(__dirname, './views/login.html'))
 })
+app.get('/producto', (req, res) => {
+    res.sendFile(path.join(__dirname, './views/produc1.html'))
+})
 
 app.use(express.static('public'));
 
